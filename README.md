@@ -1,17 +1,24 @@
-### Directory  
+# I'm Joel Prebish, Welcome to my profile! 👋
 
+### Project Highlights
 
-<!--
-**prebish/prebish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- *(Coming soon...)*
+---
 
-Here are some ideas to get you started:
+### Connect with Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Email**: [example@mail.com](mailto:)
+  - If you're interested in collaborating or discussing opportunities, please use the subject line "<Your Name\> - Proposition."
+
+- **Find Me Online**:
+  - [Stack Overflow](#) *(Link to your Stack Overflow profile)*
+  - [LeetCode](#) *(Link to your LeetCode profile)*
+  - [GitHub Pages](#) *(Link to your GitHub Pages site)*
+
+---
+
+### Additional Links
+
+For more details about me and my experience, please check out my personal website right here on GitHub!: 
+- [GitHub Pages](https://prebish.github.io/)
+- [Site Repository](https://github.com/prebish/prebish.github.io).
