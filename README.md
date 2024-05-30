@@ -21,4 +21,4 @@
 
 For more details about me and my experience, please check out my personal website right here on GitHub!: 
 - [GitHub Pages](https://prebish.github.io/)
-- [Site Repository](https://github.com/prebish/prebish.github.io).
+- [Site Repository](https://github.com/prebish/prebish.github.io)
